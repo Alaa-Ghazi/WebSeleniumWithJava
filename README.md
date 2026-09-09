@@ -44,6 +44,24 @@ https://www.saucedemo.com/
 The application is used to demonstrate automated testing of an e-commerce workflow.
 
 ---
+🏗️ Framework Structure
+
+The project follows the Page Object Model design pattern.
+
+WebSeleniumWithJava
+│
+├── src
+│   ├── main
+│   │   └── java
+│   │       └── pages
+│   │
+│   └── test
+│       └── java
+│           └── tests
+│
+├── pom.xml
+└── README.md
+---
 
 ✅ Test Scenarios
 
@@ -59,21 +77,13 @@ The automation suite covers scenarios such as:
 
 ---
 
-🏗️ Framework Structure
+🎥 Test Execution Demo
 
-The project follows the Page Object Model design pattern.
+Watch the automated Selenium test execution video:
 
-```text
-WebSeleniumWithJava
-│
-├── src
-│   ├── main
-│   │   └── java
-│   │       └── pages
-│   │
-│   └── test
-│       └── java
-│           └── tests
-│
-├── pom.xml
-└── README.md
+[▶️ Watch Test Execution](https://youtu.be/EK0vnp8dDhM)
+
+
+
+
+
